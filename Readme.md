@@ -8,7 +8,7 @@ This project walks you through building a complete RAG pipeline in 6 tasks, from
 
 ## Project Structure
 
-```
+```text
 Test1/
 ├── documents/              # Sample .txt documents to retrieve from
 ├── task1_loader.py         # Load and chunk documents
@@ -16,9 +16,9 @@ Test1/
 ├── task3_retrieval.py      # Implement vector search
 ├── task4_prompt.py         # Build prompts from retrieved context
 ├── task5_rag.py            # End-to-end RAG pipeline
-├── .py           # Evaluate retrieval quality
+├── task6_eval.py           # Evaluate retrieval quality
 └── test_queries.txt        # Sample queries to test with
-```task6_eval
+```
 
 ## Tasks
 
