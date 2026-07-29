@@ -1,0 +1,4 @@
+RAG combines retrieval and generation for better answers.
+First, relevant documents are retrieved based on the query.
+Then, these documents augment the prompt to the language model.
+This approach reduces hallucination in AI responses.

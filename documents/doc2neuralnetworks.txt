@@ -1,0 +1,3 @@
+Neural networks are inspired by biological neurons in the human brain.
+They consist of interconnected layers: input, hidden, and output layers.
+Backpropagation is used to update weights during training.
